@@ -35,6 +35,7 @@
     "composer/installers": "^2.2",
     "vlucas/phpdotenv": "^5.5",
     "oscarotero/env": "^2.1",
+    "roots/acorn": "^v3.1.0",
     "roots/bedrock-autoloader": "^1.0",
     "roots/bedrock-disallow-indexing": "^2.0",
     "roots/wordpress": "6.2",
